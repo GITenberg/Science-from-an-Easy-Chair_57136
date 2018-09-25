@@ -1,0 +1,44 @@
+_repo: Science-from-an-Easy-Chair_57136
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Lankester, E. Ray (Edwin Ray), Sir
+    aliases:
+    - Lankester, Ray, Sir
+    - Lankester, Edwin Ray, Sir
+    birthdate: 1847
+    deathdate: 1929
+    gutenberg_agent_id: '32398'
+    url: http://www.gutenberg.org/2009/agents/32398
+    wikipedia: http://en.wikipedia.org/wiki/Ray_Lankester
+description: ''
+gutenberg_issued: '2018-05-11'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '57136'
+  lccn: '10024460'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Natural history'
+- !lcc 'Q'
+- !lcsh 'Science'
+- GITenberg
+tableOfContents: 'Science and practice -- University training -- Darwin''s theory
+  -- Darwin''s discoveries -- Darwin''s theory unshaken -- Metchnikoff and Tolstoi
+  -- The land of azure blue -- Fresh-water jelly-fishes -- The story of the common
+  eel -- Modern horses and their ancestors -- A rival of the fabled upas tree -- Poisons
+  and stings of plants and animals -- The dragon: a fancy or a fact -- Oysters --
+  Maternal care and molluscs -- The heart''s beat -- Sleep -- The universal structure
+  of living things -- Protoplasm, life and death -- Chemistry and protoplasm -- The
+  simplest living things -- Tadpoles and frogs -- About the stars -- Comets -- About
+  cholera -- Sea-breezes, mountain air, and ozone -- Oxygen gas for athletes and others
+  -- Sparrows, trout, and selective breeding -- The feeble-minded -- Death-rates --
+  Gossamer -- The jumping bean -- Protective colouring in animals -- Hop-blight --
+  Green-flies, plant-lice, and parthenogenesis -- The deadly Phylloxera -- Clothes
+  moths -- Stone and wood borers -- Christmas fare -- The origin of opium -- The most
+  ancient men -- The cave-men''s skulls -- More about the Neander Men.'
+title: Science from an Easy Chair
+url: http://www.gutenberg.org/ebooks/57136
